@@ -1,2 +1,2 @@
 # ChatBot
-Bot para chat de facebook
+ChatBot para facebook
